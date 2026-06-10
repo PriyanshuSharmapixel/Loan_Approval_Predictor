@@ -1,5 +1,6 @@
 # InternID : CITS926
 # Loan_Approval_Predictor
+# Priyanshu Kumar SHarma
 
 > Predict loan application approvals using machine learning on demographic and financial data.
 
